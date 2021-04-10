@@ -24,12 +24,18 @@ Do your own research - don't grab the cheapest proxy from the first provider you
 
 ### New accounts - creating new accounts, and staying in protected
 You might wanna create accounts at some point. Whatever method for creating accounts you using make sure to always record following information.
+
 IGGID
+
 UUID
+
 Time and date of creation
+
 City/Country of Creation
+
 UUID is must for unlinked accounts - as long as you have it, when access key expires UUID generate new one.
-I personally had bad experience and created my own creation scripts, they will be shared once I am out of LM.
+
+I personally had bad experience and use my own creation scripts, they will be shared once I am out of LM.
 
 #### Academy lvl 1-13
 When new account is started I **disable any kind of speedups except troop speedups** and let accounts slowly reach level 13.
@@ -99,6 +105,6 @@ When your resource buildings are level 24, your leader will be approx lvl 57.
 
 **Finally** enable building of rss buildings to lvl 25, enable autopurchase of gold hammer in the gem tab.
 
-Now it can be already moved to your main guild/ rss guild. Enable rss talents , disable gathering, enable shield all the time. Even now, follow no mass bot guilds. The best is to store bots in guild with actual players. Your accounts will now hype about 1.5m (3m for food) + 300k gold/hour.
+Now it can be already moved to your main guild/ rss guild. Enable rss talents , disable gathering, enable shield all the time. Even now, follow no mass bot guilds and spread your bots to multiple preferrably bigger guild with actual players. Your accounts will now hype about 1.5m (3m for food) + 300k gold/hour.
 
 #### 
