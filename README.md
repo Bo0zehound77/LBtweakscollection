@@ -48,7 +48,7 @@ When new account is started I **disable any kind of speedups except troop speedu
 #### Academy lvl 13-16
 Now it is time to create and join the guild.
 **NO HIVES, NOT SUPPLYING, NO BOT LOOKING STUFF**
-When in protected, it is full of bots. There are two strategies.
+When in protected, it is full of bots. There are basically three strategies I prefer.
 1. For each bot you have create its own guild and let it be R5 - In 24-48 hours your guild will have 81 members as chineese bots will autojoin and your helps will be filled.
 2. Create multiple guilds and spread your bots more-less equally, max 11 bots per guild.
 3. Find fellow botters in the same kingdom and make a deal to create closed guild , 30 bots per guild (to avoid disbanding) - make sure your co-botters follow the same rules as you do.
