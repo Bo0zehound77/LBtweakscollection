@@ -1,5 +1,8 @@
 # LM botting tweaks
-## Few simple rules to follow in order to minimize risks/ban ratio. This is not 100% working method, this is what worked for me very well and took 1000s of accounts to achieve minimal ban damages. By no means it means you won't get banned, there are still improtant factors involved.
+## Few simple rules to follow in order to minimize risks/ban ratio. This is not 100% working method, this is what worked for me very well and took 1000s of accounts to achieve minimal ban damages. By no means it means you won't get banned - but it does lower risk factors (for me)
+To reach C25 and make full unlinked hyper this way takes a while. Probably longer than "Push to 25 asap" - it might be less comfortable but results were way better.
+I mean... you also wouldnt bang a hooker without a rubber just because it feels better, would you?
+
 ### Essential
 #### Proxies
 I can't stress this enough. There are thousands of bots running over proxies. Everyone tries to save as much $ as possible and goes for shared or semi/dedicated proxies.
@@ -11,7 +14,11 @@ Dont swap guilds too much if you do swap make sure to stay in next guild at leas
 #### Delivering rss
 Send only from 1 account at once to same target. Do that in zone 1/2 and follow guild hopping rule.
 #### Offline/maintenance
-If you have accounts in 
+If your bot was offline or there was maintenace make sure accounts in hive are stopped once you start. Accounts will start to supply/hunt same monster all at once. Mass botting sign
+Instead - enable them 1 by 1 in 10 mins intervals.
+#### KVK
+24h shield and stop gathering.
+
 
 Do your own research - don't grab the cheapest proxy from the first provider you found on google, use alternative providers.
 
@@ -78,9 +85,11 @@ Now it is also time to choose what hypers will those bots be. Adjust rss buildin
 
 **Buildings** - Resources (with manor) up to level 24.
 
+**speedups** enable for research and buildings.
 When your resource buildings are level 24, your leader will be approx lvl 57.
-Now it can be already moved to your main guild/ rss guild. Enable rss talents , disable gathering, enable shield all the time. Even now, follow no mass bot guilds. The best is to store bots in guild with actual players. Your accounts will now hype about 1.5m (3m for food) + 300k gold/hour.
 
 **Finally** enable building of rss buildings to lvl 25, enable autopurchase of gold hammer in the gem tab.
+
+Now it can be already moved to your main guild/ rss guild. Enable rss talents , disable gathering, enable shield all the time. Even now, follow no mass bot guilds. The best is to store bots in guild with actual players. Your accounts will now hype about 1.5m (3m for food) + 300k gold/hour.
 
 #### 
