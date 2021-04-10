@@ -33,12 +33,12 @@ I personally had bad experience and created my own creation scripts, they will b
 
 #### Academy lvl 1-13
 When new account is started I **disable any kind of speedups except troop speedups** and let accounts slowly reach level 13.
-Gathering - Only gather clearable tiles, sending delay 10
-Research - Military (Training speed only) > MH > Familliars(pact3 unlock) > Economy - This way accounts generate a lot of bags, familliars will be explained later.
-Buildings - Priority Academy - Lvl 24. Enable only 4 basic rss buildings and full manors in template. Keep empty other rss bulding slots. This way account can grow and eventually at lvl 24 you will decide what hyper do you want. For Familliar buildings I use 1x gym,1x spire, rest springs.
-Talents - Research + Construction - Army capacity - gathering speed.
-Gear - For every account I set 2x construtcion speed trinket, 2x research speed trinket,familliar gear, 2x hunting trinket, dwarven boots, conquest helm, trident, noceros weapon, research gloves
-Army - I set 20k inf, 20k ranged,200k cav and disable healing (only sanctuary)
+**Gathering** - Only gather clearable tiles, sending delay 10
+**Research** - Military (Training speed only) > MH > Familliars(pact3 unlock) > Economy - This way accounts generate a lot of bags, familliars will be explained later.
+**Buildings** - Priority Academy - Lvl 24. Enable only 4 basic rss buildings and full manors in template. Keep empty other rss bulding slots. This way account can grow and eventually at lvl 24 you will decide what hyper do you want. For Familliar buildings I use 1x gym,1x spire, rest springs.
+**Talents** - Research + Construction - Army capacity - gathering speed.
+**Gear** - For every account I set 2x construtcion speed trinket, 2x research speed trinket,familliar gear, 2x hunting trinket, dwarven boots, conquest helm, trident, noceros weapon, research gloves
+**Army** - I set 20k inf, 20k ranged,200k cav and disable healing (only sanctuary)
 
 #### Academy lvl 13-16
 Now it is time to create and join the guild.
