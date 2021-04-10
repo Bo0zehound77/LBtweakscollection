@@ -34,10 +34,15 @@ I personally had bad experience and created my own creation scripts, they will b
 #### Academy lvl 1-13
 When new account is started I **disable any kind of speedups except troop speedups** and let accounts slowly reach level 13.
 **Gathering** - Only gather clearable tiles, sending delay 10
+
 **Research** - Military (Training speed only) > MH > Familliars(pact3 unlock) > Economy - This way accounts generate a lot of bags, familliars will be explained later.
+
 **Buildings** - Priority Academy - Lvl 24. Enable only 4 basic rss buildings and full manors in template. Keep empty other rss bulding slots. This way account can grow and eventually at lvl 24 you will decide what hyper do you want. For Familliar buildings I use 1x gym,1x spire, rest springs.
+
 **Talents** - Research + Construction - Army capacity - gathering speed.
+
 **Gear** - For every account I set 2x construtcion speed trinket, 2x research speed trinket,familliar gear, 2x hunting trinket, dwarven boots, conquest helm, trident, noceros weapon, research gloves
+
 **Army** - I set 20k inf, 20k ranged,200k cav and disable healing (only sanctuary)
 
 #### Academy lvl 13-16
@@ -56,7 +61,9 @@ Explanation:
 **Join guild slowly** - joining delay between each bot at least 1800 seconds.
 
 **Hunting** - enable hunting, only full health - no stealing
+
 **Building** - When academy 16 is reached dont push towards aca 17. Accounts should have chapter 8 and familliars are unlocked. Build all Fam buidlings up to level 16.
+
 **Familiars** - Don't forget to enable familliar training - Aquiris is the most important one from 1st pact. Gnome and territe are cool as well.
 
 **Speedups** - enable research speedups if you want. Enable building speedups for fam buildings.
@@ -78,7 +85,9 @@ After reaching academy 24 you should have enough gems for Treasure trove - max i
 If you have many accounts in 1 guild, split them.
 
 Now it is also time to choose what hypers will those bots be. Adjust rss buildings that way
+
 **Gear** - Select gear to build based on type of hyper (like terror vials for ore, wyrm seals for stone etc)
+
 **Familliars** - Either Build your fam buildings to lvl 20 and set pact 3 (trickster,stars,gnome) - if already unlocked OR keep them lvl 16 and focus on  pact 1 + pact 2 rss boost fams for the type of hyper you need. Evil weevil is also essention, other interesting one is harpy.
 
 **Heroes** - You will have enough time to train heroes until all resource buildings are level 24. 1st RSS boost hero (based on your hyper) and gold production boost midget is what you are looking for.
