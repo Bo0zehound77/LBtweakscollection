@@ -1,4 +1,20 @@
 # LM botting tweaks
+## Update 3.11.2021
+I somehow forgot to share this thing I've been doign for a while (I am sure I am not the only one). This is so far the fastest way to collect bags on bots.
+You sure know when hyper has all those bags full of the exact same rss it hypes, but rest is quite low.
+Ofc there is gathering but that tends to be quite obvious, likes to summon banhammer.
+
+Basically bots will fill the bank and instead of selling this bank(or part of it) , it will be devided between those bots - only the type of rss bot doesnt produce, will be supplied to the bot. Example: Stone hyper will receive food,wood,ore while Wood hyper will receive : Food,Stone,Ore
+
+- Every account needs to have positive upkeep - just reduce their soldirs, not needed anyway.
+- Quiter Kindgdom recommended
+- Nonstop Shield
+- Set up your hypers to keep the most of their hyped rss AND gold, autosupply the smallest possible amount (for example: wood -  reserved 30m/supply at 35m, max is 40 ) to bank
+- Set other rss to be kept on hyper
+
+I've already proposed to Justin approx like a year ago to make an optional function that would in case accounts require rss (for buildings/research/cargo/whatever) requested the rss directly from the bank, hence saving all those bags that are spend on cargo,constructions,.
+ 
+
 ## Few simple rules to follow in order to minimize risks/ban ratio. This is not 100% working method, this is what worked for me very well and took 1000s of accounts to achieve minimal ban damages. By no means it means you won't get banned - but it does lower risk factors (for me)
 To reach C25 and make full unlinked hyper this way takes a while. Probably longer than "Push to 25 asap" - it might be less comfortable but results were way better.
 I mean... you also wouldnt bang a hooker without a rubber just because it feels better, would you?
