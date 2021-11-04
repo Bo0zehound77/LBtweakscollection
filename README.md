@@ -24,7 +24,7 @@ I mean... you also wouldnt bang a hooker without a rubber just because it feels 
 I can't stress this enough. There are thousands of bots running over proxies. Everyone tries to save as much $ as possible and goes for shared or semi/dedicated proxies.
 Which would normally be fine if everyone used different provider, however this is not the case. Most of the users use one of the major providers therefore there is a chance to have shared proxy with other botters. Moreover people tend to use multiple accounts per proxy so imagine sharing that with someone who runs 5 accs/per proxy.
 
-Do your own research find alternative provider, do not swap proxies frequently thats gets you banned.
+Do your own research - don't grab the cheapest proxy from the first provider you found on google, use alternative providers. Do not swap proxies often.
 
 #### Mass bot guilds
 Dont even get me started here.
@@ -37,9 +37,6 @@ If your bot was offline or there was maintenace make sure accounts in hive are s
 Instead - enable them 1 by 1 in 10 mins intervals.
 #### KVK
 24h shield and stop gathering.
-
-
-Do your own research - don't grab the cheapest proxy from the first provider you found on google, use alternative providers.
 
 ### New accounts - creating new accounts, and staying in protected
 You might wanna create accounts at some point. Whatever method for creating accounts you using make sure to always record following information.
